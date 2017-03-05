@@ -1,10 +1,11 @@
 ## Databasics
 
-Fork this repository into your own github profile.
+This is an exercise meant to teach the fundamentals of PostgreSQL. I used pgcli as the command line interface.
 
-Before closing the homework assignment issue:
 
-- Update answers.md:
+### How to complete exercise
+
+- Update the answers.md file:
   - For each question include the SQL statement(s) you wrote to generate the answer.
   - For each question include the *answer* (the sqlite output), if any, to the question asked.
 
